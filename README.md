@@ -6,4 +6,4 @@ For the week 1 challenge I made some changes to the accessibility features to th
 * Made changes to the CSS coding by grouping similar items together
 * Created a read me file with what I did. 
 * Changed styling features for the HTML & CSS files. 
-* Added alternative images when the picture is not available in the HTML. 
+* Added alternative source  of images when the picture is not available in the HTML. 
