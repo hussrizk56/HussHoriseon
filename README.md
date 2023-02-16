@@ -15,6 +15,6 @@ For the week 1 challenge I made some changes to the accessibility features to th
      
 
 ## Links
-GitHub repository link: https://github.com/hussrizk56/assignment1htmlcssLinks
+GitHub repository link: https://github.com/hussrizk56/HussHoriseon
 
-URL to deployed application: https://hussrizk56.github.io/assignment1htmlcss/Links
+URL to deployed application: https://hussrizk56.github.io/HussHoriseon/
