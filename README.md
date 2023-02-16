@@ -10,8 +10,9 @@ For the week 1 challenge I made some changes to the accessibility features to th
 
 ## Screenshot:
 <div>
-   <img src="./assets/images/screenshot.jpg" width="500px"/> 
-</div>
+        <img src="./assets/images/Screenshot.jpg" width="500px"/> 
+     </div>
+     
 
 ## Links
 GitHub repository link: https://github.com/hussrizk56/assignment1htmlcssLinks
